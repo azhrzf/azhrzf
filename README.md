@@ -1,5 +1,5 @@
 
-![gif](https://user-images.githubusercontent.com/87351650/167280050-bcae966d-e80d-430d-aebc-45878fdc897a.gif)
+<!--![gif](https://user-images.githubusercontent.com/87351650/167280050-bcae966d-e80d-430d-aebc-45878fdc897a.gif) -->
 
 - 👋 Hi, I’m @azhrzf
 - 👀 I’m interested in ...
