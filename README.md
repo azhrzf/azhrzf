@@ -3,7 +3,9 @@
 
 Hi, I'm Azhar, an informatics student. Currently learning front-end for beginners, hopefully later back-end, and finally full-stack.
 
-<b>azhrzf<b> is my username, it's on various social media.
+<ul>
+  <li>Contact: azhrzf</li>
+</ul>
 
 <!---
 azhrzf/azhrzf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
