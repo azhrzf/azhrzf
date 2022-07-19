@@ -5,12 +5,10 @@
 
 <p>Some of my work:</p>
 <ul>
-  <li><a href="https://ziakode.com/">ziakode.com</a> [CMS & Bootstrap]: Under Development</li
+  <li><a href="https://ziakode.com/">ziakode.com</a> [CMS & Bootstrap]: Under Development</li>
 </ul>
 
-<ul>
-  <li>Contact: azhrzf</li>
-</ul>
+<p>Contact: socialmedianame.com/azhrzf</p>
 
 <!---
 azhrzf/azhrzf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
