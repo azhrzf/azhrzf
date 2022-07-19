@@ -8,7 +8,7 @@
   <li><a href="https://ziakode.com/">ziakode.com</a> [CMS & Bootstrap]: Under Development</li>
 </ul>
 
-<p>Contact: socialmedianame.com/azhrzf</p>
+<p>Contact: socmedname/azhrzf</p>
 
 <!---
 azhrzf/azhrzf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
