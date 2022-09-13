@@ -5,7 +5,7 @@
 
 <p>Some of my work:</p>
 <ul>
-  <li><a href="https://ziakode.com/">ziakode.com</a> [CMS & Bootstrap]: Under Development</li>
+  <li><a href="https://ziakode.com/">ziakode.com</a> [CMS]: Under Development</li>
 </ul>
 
 <p>Contact: anysocial/azhrzf</p>
