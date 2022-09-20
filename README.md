@@ -9,6 +9,7 @@
 </ul>
 
 <p>Contact: anysocial/azhrzf</p>
+<p><a href="https://www.linkedin.com/in/azhrzf/">LinkedIn</a></p>
 
 <img src="https://www.codewars.com/users/azhrzf/badges/micro"/>
 
