@@ -9,6 +9,10 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Aplikasi Terbaik Belajar Coding Lewat Smartphone](https://ziakode.com/aplikasi-terbaik-belajar-coding-lewat-smartphone/)
+- [Definisi Informasi, Sistem Informasi, Teknologi Informasi, dan Data Menurut Para Ahli](https://ziakode.com/definisi-sistem-informasi-menurut-para-ahli/)
+- [Dasar-dasar Pengertian Perangkat Lunak](https://ziakode.com/pengertian-perangkat-lunak/)
+- [Sistem Kritis, Definisi, Tipe, dan Komponen yang Rentan](https://ziakode.com/sistem-kritis/)
 <!-- BLOG-POST-LIST:END -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azhrzf&layout=compact&theme=dark&hide_border=true)
