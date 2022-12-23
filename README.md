@@ -1,19 +1,12 @@
+# "People's dreams... have no end!"
 
-<!--![gif](https://user-images.githubusercontent.com/87351650/167280050-bcae966d-e80d-430d-aebc-45878fdc897a.gif) -->
+### Connect with me
+<a href="https://www.linkedin.com/in/azhrzf"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/15503851/azhrzf"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 
-<p>Hi, I'm Azhar, an informatics student. Currently learning front-end for beginners, hopefully later back-end, and finally full-stack.</p>
+### Some of my works
+<a href="https://www.ziakode.com"><img src="https://img.shields.io/badge/blog-ziakode.com-blue"/></a>
 
-<p>Some of my work:</p>
-<ul>
-  <li><a href="https://ziakode.com/">ziakode.com</a> [CMS]: Under Development</li>
-</ul>
-
-<p>Contact: anysocial/azhrzf</p>
-<p><a href="https://www.linkedin.com/in/azhrzf/">LinkedIn</a></p>
-
-<img src="https://www.codewars.com/users/azhrzf/badges/micro"/>
-
-<!---
-azhrzf/azhrzf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
