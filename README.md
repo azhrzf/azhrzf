@@ -15,5 +15,6 @@
 - [Sistem Kritis, Definisi, Tipe, dan Komponen yang Rentan](https://ziakode.com/sistem-kritis/)
 <!-- BLOG-POST-LIST:END -->
 
+### Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azhrzf&layout=compact&theme=dark&hide_border=true)
 
