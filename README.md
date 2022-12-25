@@ -5,7 +5,7 @@
 <a href="https://stackoverflow.com/users/15503851/azhrzf" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 
 ### Some of my works
-<a href="https://www.ziakode.com" target="_blank"><img src="https://img.shields.io/badge/blog-ziakode.com-blue"/></a>
+<a href="https://www.ziakode.com" target="_blank"><img src="https://img.shields.io/badge/blog-ziakode.com-blue?style=for-the-badge"/></a>
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
