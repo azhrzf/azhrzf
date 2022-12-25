@@ -1,11 +1,11 @@
 # "People's dreams... have no end!"
 
 ### Connect with me
-<a href="https://www.linkedin.com/in/azhrzf" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/15503851/azhrzf" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azhrzf)
+[![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15503851/azhrzf)
 
 ### Some of my works
-<a href="https://www.ziakode.com" target="_blank"><img src="https://img.shields.io/badge/blog-ziakode.com-blue?style=flat-square"/></a>
+[![Ziakode](https://img.shields.io/badge/blog-ziakode.com-blue?style=flat-square)](https://www.ziakode.com)
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -16,7 +16,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### Github Stats
-![](https://komarev.com/ghpvc/?username=azhrzf&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=azhrzf&style=flat-square)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azhrzf&layout=compact&theme=dark&hide_border=true)](https://github.com/azhrzf/)
 
