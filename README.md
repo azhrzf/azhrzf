@@ -18,6 +18,6 @@
 ### Github Stats
 ![](https://komarev.com/ghpvc/?username=azhrzf&style=flat-square)
 
-![Top Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=azhrzf&layout=compact&theme=dark#gh-dark-mode-only&hide_border=true)
-![Top Langs Light](https://github-readme-stats.vercel.app/api/top-langs/?username=azhrzf&layout=compact&theme=default#gh-light-mode-only&hide_border=true)
+[![Top Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=azhrzf&layout=compact&theme=dark&hide_border=true#gh-dark-mode-only)](https://github.com/azhrzf/#gh-dark-mode-only)
+[![Top Langs Light](https://github-readme-stats.vercel.app/api/top-langs/?username=azhrzf&layout=compact&theme=default&hide_border=true#gh-light-mode-only)](https://github.com/azhrzf/#gh-light-mode-only)
 
