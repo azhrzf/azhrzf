@@ -17,5 +17,6 @@
 
 ### Github Stats
 ![](https://komarev.com/ghpvc/?username=azhrzf&style=for-the-badge)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azhrzf&layout=compact&theme=dark&hide_border=true)
 
