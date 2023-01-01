@@ -9,10 +9,10 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mengulik Anton Wibowo, Maniak FLOSS yang Tak Kenal Jengah](https://ziakode.com/anton-wibowo/)
 - [2 Cara Menambahkan GitHub Readme Stats di Halaman Profil GitHub dengan Mudah](https://ziakode.com/menambahkan-github-readme-stats/)
 - [5 Aplikasi Terbaik Belajar Coding Lewat Smartphone](https://ziakode.com/aplikasi-terbaik-belajar-coding-lewat-smartphone/)
 - [Definisi Informasi, Sistem Informasi, Teknologi Informasi, dan Data Menurut Para Ahli](https://ziakode.com/definisi-sistem-informasi-menurut-para-ahli/)
-- [Dasar-dasar Pengertian Perangkat Lunak](https://ziakode.com/pengertian-perangkat-lunak/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Github Stats
