@@ -4,9 +4,10 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azhrzf)
 [![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15503851/azhrzf)
 
-### Some of my works
+<!-- ### Some of my works
 [![Ziakode](https://img.shields.io/badge/blog-ziakode.com-blue?style=flat-square)](https://www.ziakode.com)
-
+ -->
+ 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Model Waterfall pada SDLC](https://ziakode.com/model-waterfall-sdlc/)
