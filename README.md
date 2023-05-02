@@ -10,10 +10,10 @@
  
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Macam-macam Layanan Penyimpanan Data di Google Cloud](https://ziakode.com/layanan-penyimpanan-data-di-google-cloud/)
 - [Model Waterfall pada SDLC](https://ziakode.com/model-waterfall-sdlc/)
 - [Mengulik Anton Wibowo, Maniak FLOSS yang Tak Kenal Jengah](https://ziakode.com/anton-wibowo/)
 - [2 Cara Menambahkan GitHub Readme Stats di Halaman Profil GitHub dengan Mudah](https://ziakode.com/menambahkan-github-readme-stats/)
-- [5 Aplikasi Terbaik Belajar Coding Lewat Smartphone](https://ziakode.com/aplikasi-terbaik-belajar-coding-lewat-smartphone/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Github Stats
