@@ -17,9 +17,8 @@ Furthermore, I am familiar with the Google Cloud Platform, leveraging its servic
 
 You can reach me through the following channels:
 
-- Email: a.zaidan.f.azf616@gmail.com
-- LinkedIn: [in/azhrzf](https://www.linkedin.com/in/azhrzf)
-- Portfolio: [azhrzf.netlify.app](azhrzf.netlify.app)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/azhrzf)
+[![Netlify](https://skillicons.dev/icons?i=netlify)](azhrzf.netlify.app)
 
 Let's connect and discuss potential collaborations!
 
