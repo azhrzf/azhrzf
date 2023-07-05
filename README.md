@@ -2,6 +2,7 @@
 
 ## About Me
 ![Profile Views](https://komarev.com/ghpvc/?username=azhrzf&style=flat-square)
+![Codewars](https://www.codewars.com/users/azhrzf/badges/micro)
 
 I am a final year student pursuing a Bachelor's degree in Computer Science at Sunan Kalijaga State Islamic University. With a strong passion for front-end development, I specialize in creating user-friendly and visually appealing web applications. My main area of expertise lies in React.js and its ecosystem, including Node.js.
 
