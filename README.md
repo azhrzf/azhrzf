@@ -34,8 +34,8 @@ Let's connect and discuss potential collaborations!
 ---
 ## Github Stats
 
-[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azhrzf&show_icons=true&theme=radical)](https://github.com/your-username)
+[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azhrzf&show_icons=true&theme=radical)](https://github.com/azhrzf)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azhrzf&layout=compact&theme=radical)](https://github.com/your-username)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azhrzf&layout=compact&theme=radical)](https://github.com/azhrzf)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=azhrzf&theme=radical)](https://github.com/your-username)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=azhrzf&theme=radical)](https://github.com/azhrzf)
