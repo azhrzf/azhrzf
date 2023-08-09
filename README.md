@@ -39,3 +39,7 @@ Let's connect and discuss potential collaborations!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azhrzf&layout=compact&theme=radical)](https://github.com/azhrzf)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=azhrzf&theme=radical)](https://github.com/azhrzf)
+
+---
+## I love TypeScript
+<img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Typescript/Chito_Saving_Burning_Mastering_Typescript.png" alt="typescript" width="auto" height="250">
