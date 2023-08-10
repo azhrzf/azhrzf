@@ -12,7 +12,7 @@ Furthermore, I am familiar with the Google Cloud Platform, leveraging its servic
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,postgres,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,express,postgres,mongodb,gcp)](https://skillicons.dev)
 
 ## Contact Me
 
