@@ -34,15 +34,14 @@ Let's connect and discuss potential collaborations!
 <!-- BLOG-POST-LIST:END -->
 ---
 ## Github Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azhrzf&show_icons=true&theme=radical)](https://github.com/azhrzf)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azhrzf&layout=compact&theme=radical)](https://github.com/azhrzf)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=azhrzf&theme=radical)](https://github.com/azhrzf)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ---
 ## I love TypeScript
