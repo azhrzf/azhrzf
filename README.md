@@ -35,6 +35,15 @@ Let's connect and discuss potential collaborations!
 ---
 ## Github Stats
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript   15 hrs 14 mins  ███████████████▒░░░░░░░░░   61.49 %
+HTML         4 hrs 16 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.24 %
+CSS          2 hrs 13 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
+SCSS         2 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
+JSON         55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+```
+
 <!--END_SECTION:waka-->
 
 [![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azhrzf&show_icons=true&theme=radical)](https://github.com/azhrzf)
