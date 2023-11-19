@@ -43,6 +43,6 @@ JSON         55 mins         █░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ## Github Stats
-[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azhrzf&show_icons=true&theme=radical&card_width=300)](https://github.com/azhrzf)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=azhrzf&theme=radical&card_width=400)](https://github.com/azhrzf)
+[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azhrzf&show_icons=true&theme=radical&card_width=250)](https://github.com/azhrzf)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=azhrzf&theme=radical&card_width=350)](https://github.com/azhrzf)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azhrzf&layout=compact&theme=radical)](https://github.com/azhrzf) -->
