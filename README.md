@@ -4,11 +4,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=azhrzf&style=flat-square)
 ![Codewars](https://www.codewars.com/users/azhrzf/badges/micro)
 
-I am a final year student pursuing a Bachelor's degree in Computer Science at Sunan Kalijaga State Islamic University. With a strong passion for front-end development, I specialize in creating user-friendly and visually appealing web applications. My main area of expertise lies in React.js and its ecosystem, including Node.js.
-
-Besides my proficiency in React.js, I am also skilled in backend development using Express and Hapi.js frameworks. This allows me to develop full-stack applications, ensuring seamless communication between the server and the client-side. I have successfully built RESTful APIs, implemented authentication and authorization mechanisms, and optimized database interactions.
-
-Furthermore, I am familiar with the Google Cloud Platform, leveraging its services for environment setup and deployment. I have experience configuring and deploying applications, ensuring scalability, security, and efficient resource management.
+Final year Computer Science student at Sunan Kalijaga State Islamic University, specializing in front-end development with a focus on React.js and its ecosystem, including Node.js. Proficient in backend development using Express and Hapi.js frameworks, enabling the creation of seamless full-stack applications. Skilled in building RESTful APIs, implementing authentication, authorization mechanisms, and optimizing database interactions. Experienced in utilizing the Google Cloud Platform for environment setup and deployment, ensuring scalability, security, and efficient resource management.
 
 ## Tech Stack
 
@@ -33,7 +29,7 @@ Let's connect and discuss potential collaborations!
 - [2 Cara Menambahkan GitHub Readme Stats di Halaman Profil GitHub dengan Mudah](https://ziakode.com/menambahkan-github-readme-stats/)
 <!-- BLOG-POST-LIST:END -->
 ---
-## Github Stats
+## Wakatime Stats
 <!--START_SECTION:waka-->
 
 ```txt
@@ -46,12 +42,7 @@ JSON         55 mins         █░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+## Github Stats
 [![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azhrzf&show_icons=true&theme=radical)](https://github.com/azhrzf)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azhrzf&layout=compact&theme=radical)](https://github.com/azhrzf)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=azhrzf&theme=radical)](https://github.com/azhrzf)
-
----
-## I love TypeScript
-<img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Typescript/Chito_Saving_Burning_Mastering_Typescript.png" alt="typescript" width="auto" height="250">
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azhrzf&layout=compact&theme=radical)](https://github.com/azhrzf) -->
