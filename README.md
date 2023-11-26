@@ -33,11 +33,11 @@ Let's connect and discuss potential collaborations!
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   15 hrs 14 mins  ███████████████▒░░░░░░░░░   61.49 %
-HTML         4 hrs 16 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.24 %
-CSS          2 hrs 13 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
-SCSS         2 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
-JSON         55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+JavaScript      18 hrs 20 mins  ████████████████▒░░░░░░░░   65.08 %
+Python          5 hrs 26 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.29 %
+CSV             1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+JSON            47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+Bash            31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 ```
 
 <!--END_SECTION:waka-->
