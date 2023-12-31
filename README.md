@@ -33,11 +33,8 @@ Let's connect and discuss potential collaborations!
 <!--START_SECTION:waka-->
 
 ```txt
-PHP             23 mins         █████████▒░░░░░░░░░░░░░░░   37.88 %
-HTML            18 mins         ███████▒░░░░░░░░░░░░░░░░░   29.56 %
-JavaScript      11 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.27 %
-Other           3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
-Bash            3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
+TypeScript   1 hr 30 mins    ████████████████████████▓   98.98 %
+Go           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 ```
 
 <!--END_SECTION:waka-->
