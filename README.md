@@ -33,11 +33,11 @@ Let's connect and discuss potential collaborations!
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          2 hrs 57 mins   █████████████▓░░░░░░░░░░░   54.17 %
-TypeScript   1 hr 15 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.16 %
-CSS          1 hr 1 min      ████▓░░░░░░░░░░░░░░░░░░░░   18.81 %
-Git Config   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-Markdown     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+PHP          7 hrs 57 mins   ████████████████████▓░░░░   82.61 %
+CSS          1 hr 13 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 %
+JavaScript   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+HTML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+SCSS         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:waka-->
