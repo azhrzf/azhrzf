@@ -33,11 +33,9 @@ Let's connect and discuss potential collaborations!
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          7 hrs 57 mins   ████████████████████▓░░░░   82.61 %
-CSS          1 hr 13 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 %
-JavaScript   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
-HTML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-SCSS         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+JavaScript   13 mins         ███████████████████████▒░   93.30 %
+TypeScript   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+Svelte       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
 ```
 
 <!--END_SECTION:waka-->
