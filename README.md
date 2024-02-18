@@ -33,7 +33,10 @@ Let's connect and discuss potential collaborations!
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   3 hrs 26 mins   █████████████████████░░░░   83.95 %
+CSS          35 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
+HTML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+XML          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
