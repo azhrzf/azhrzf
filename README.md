@@ -33,10 +33,11 @@ Let's connect and discuss potential collaborations!
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   3 hrs 26 mins   █████████████████████░░░░   83.95 %
-CSS          35 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
-HTML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-XML          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+JavaScript   4 hrs 32 mins   ██████████████▓░░░░░░░░░░   58.25 %
+Svelte       1 hr 28 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.87 %
+Vue.js       49 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
+CSS          37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
+Other        18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
 ```
 
 <!--END_SECTION:waka-->
