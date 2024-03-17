@@ -33,11 +33,7 @@ Let's connect and discuss potential collaborations!
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   44 mins         ██████████▓░░░░░░░░░░░░░░   42.61 %
-Svelte       27 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.98 %
-Vue.js       18 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.01 %
-JSON         12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
