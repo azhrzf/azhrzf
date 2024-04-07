@@ -33,11 +33,7 @@ Let's connect and discuss potential collaborations!
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript    24 hrs 31 mins  ████████████████████████▓   98.17 %
-JSON          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-Git Config    5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-YAML          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-TypeScript    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
