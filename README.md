@@ -13,11 +13,11 @@ Looking forward to connecting with you!
 ---
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Daun Kering di Dunia Kode, by ChatGPT Ofc](https://ziakode.com/nasibmu-programmer/)
-- [Macam-macam Layanan Penyimpanan Data di Google Cloud](https://ziakode.com/layanan-penyimpanan-data-di-google-cloud/)
-- [Model Waterfall pada SDLC](https://ziakode.com/model-waterfall-sdlc/)
-- [Mengulik Anton Wibowo, Maniak FLOSS yang Tak Kenal Jengah](https://ziakode.com/anton-wibowo/)
-- [2 Cara Menambahkan GitHub Readme Stats di Halaman Profil GitHub dengan Mudah](https://ziakode.com/menambahkan-github-readme-stats/)
+- [Macam-macam Layanan Penyimpanan Data di Google Cloud](https://teknoku.azharfauzi.my.id/2023/05/02/layanan-penyimpanan-data-di-google-cloud/)
+- [Model Waterfall pada SDLC](https://teknoku.azharfauzi.my.id/2023/02/12/model-waterfall-sdlc/)
+- [Mengulik Anton Wibowo, Maniak FLOSS yang Tak Kenal Jengah](https://teknoku.azharfauzi.my.id/2023/01/01/anton-wibowo/)
+- [2 Cara Menambahkan GitHub Readme Stats di Halaman Profil GitHub dengan Mudah](https://teknoku.azharfauzi.my.id/2022/12/25/menambahkan-github-readme-stats/)
+- [5 Aplikasi Terbaik untuk Belajar Coding Lewat Smartphone](https://teknoku.azharfauzi.my.id/2022/10/14/aplikasi-terbaik-belajar-coding-lewat-smartphone/)
 <!-- BLOG-POST-LIST:END -->
 ---
 ## Wakatime Stats
