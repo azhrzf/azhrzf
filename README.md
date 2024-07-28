@@ -13,11 +13,11 @@ Looking forward to connecting with you!
 ---
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Macam-macam Layanan Penyimpanan Data di Google Cloud](https://teknoku.azharfauzi.my.id/2023/05/02/layanan-penyimpanan-data-di-google-cloud/)
-- [Model Waterfall pada SDLC](https://teknoku.azharfauzi.my.id/2023/02/12/model-waterfall-sdlc/)
-- [Mengulik Anton Wibowo, Maniak FLOSS yang Tak Kenal Jengah](https://teknoku.azharfauzi.my.id/2023/01/01/anton-wibowo/)
+- [Hello world!](https://teknoku.azharfauzi.my.id/2024/07/22/hello-world/)
 - [2 Cara Menambahkan GitHub Readme Stats di Halaman Profil GitHub dengan Mudah](https://teknoku.azharfauzi.my.id/2022/12/25/menambahkan-github-readme-stats/)
-- [5 Aplikasi Terbaik untuk Belajar Coding Lewat Smartphone](https://teknoku.azharfauzi.my.id/2022/10/14/aplikasi-terbaik-belajar-coding-lewat-smartphone/)
+- [5 Aplikasi Terbaik Belajar Coding Lewat Smartphone](https://teknoku.azharfauzi.my.id/2022/10/14/aplikasi-terbaik-belajar-coding-lewat-smartphone/)
+- [Definisi Informasi, Sistem Informasi, Teknologi Informasi, dan Data Menurut Para Ahli](https://teknoku.azharfauzi.my.id/2022/10/10/definisi-sistem-informasi-menurut-para-ahli/)
+- [Dasar-dasar Pengertian Perangkat Lunak](https://teknoku.azharfauzi.my.id/2022/09/28/pengertian-perangkat-lunak/)
 <!-- BLOG-POST-LIST:END -->
 ---
 ## Wakatime Stats
