@@ -5,7 +5,7 @@ I'm Azhar, a final-year student specializing in web development. My primary focu
 
 Currently, I'm seeking opportunities for internships or entry-level positions where I can contribute and grow as a developer.
 
-Feel free to check out my portfolio and projects at [azhrzf.my.id](https://azhrzf.my.id/).
+Feel free to check out my portfolio and projects at [azharfauzi.my.id](https://azharfauzi.my.id/).
 
 For any inquiries or opportunities, please reach out to me at [a.zaidan.f.azf616@gmail.com](mailto:a.zaidan.f.azf616@gmail.com).
 
