@@ -1,4 +1,5 @@
 # Hi there! 👋 I'm Azhar Zaidan Fauzi
+![Codewars, azhrzf's stats](https://www.codewars.com/users/azhrzf/badges/large)
 
 I'm Azhar, a final-year student specializing in web development. My primary focus is on frontend development using React, with experience integrating it with Next.js and Laravel-Inertia.js. I'm also familiar with REST API development for backend systems.
 
