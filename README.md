@@ -25,11 +25,11 @@ Looking forward to connecting with you!
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript       3 hrs 4 mins    █████████▓░░░░░░░░░░░░░░░   38.11 %
-PHP              1 hr 47 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.12 %
-YAML             1 hr 22 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.11 %
-JSON             39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
-TypeScript       21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+TypeScript       2 hrs           █████████████▒░░░░░░░░░░░   53.05 %
+JavaScript       44 mins         █████░░░░░░░░░░░░░░░░░░░░   19.50 %
+Blade Template   38 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.97 %
+PHP              13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
+CSS              4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
 ```
 
 <!--END_SECTION:waka-->
