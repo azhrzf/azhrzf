@@ -25,11 +25,11 @@ Looking forward to connecting with you!
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         1 hr 44 mins    ██████████░░░░░░░░░░░░░░░   39.50 %
-JavaScript   52 mins         █████░░░░░░░░░░░░░░░░░░░░   19.94 %
-TypeScript   46 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.51 %
-Vue.js       23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
-Markdown     13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
+Vue.js       7 hrs 28 mins   █████████████▒░░░░░░░░░░░   53.03 %
+TypeScript   3 hrs 43 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.42 %
+CSS          1 hr 19 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
+JavaScript   51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
+HTML         28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
 ```
 
 <!--END_SECTION:waka-->
