@@ -25,11 +25,7 @@ Looking forward to connecting with you!
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    5 hrs 52 mins   ██████████████████░░░░░░░   72.28 %
-PHP           1 hr 18 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.12 %
-CSS           35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
-Text          14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-JSON          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
