@@ -25,7 +25,8 @@ Looking forward to connecting with you!
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+PHP    2 hrs 9 mins    ████████████████████████▓   99.27 %
+Bash   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
