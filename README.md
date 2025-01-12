@@ -25,7 +25,7 @@ Looking forward to connecting with you!
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   58 mins         █████████████████████████   100.00 %
+Java   4 hrs 29 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
