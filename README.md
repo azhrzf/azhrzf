@@ -14,11 +14,11 @@ Looking forward to connecting with you!
 ---
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [My Journey Through the Dicoding Bootcamp: Building Skills and Impacting Communities](https://teknoku.azharfauzi.my.id/2024/09/08/my-journey-through-the-dicoding-bootcamp-building-skills-and-impacting-communities/)
-- [2 Cara Menambahkan GitHub Readme Stats di Halaman Profil GitHub dengan Mudah](https://teknoku.azharfauzi.my.id/2022/12/25/menambahkan-github-readme-stats/)
-- [5 Aplikasi Terbaik Belajar Coding Lewat Smartphone](https://teknoku.azharfauzi.my.id/2022/10/14/aplikasi-terbaik-belajar-coding-lewat-smartphone/)
-- [Definisi Informasi, Sistem Informasi, Teknologi Informasi, dan Data Menurut Para Ahli](https://teknoku.azharfauzi.my.id/2022/10/10/definisi-sistem-informasi-menurut-para-ahli/)
-- [Dasar-dasar Pengertian Perangkat Lunak](https://teknoku.azharfauzi.my.id/2022/09/28/pengertian-perangkat-lunak/)
+- [Cara Membuat Continuous Deployment &lpar;CD&rpar; Cpanel Menggunakan Github Actions dalam 5 Langkah!](https://ziakode.com/cara-menghubungkan-cpanel-menggunakan-github-actions/)
+- [Macam-macam Layanan Penyimpanan Data di Google Cloud](https://ziakode.com/layanan-penyimpanan-data-di-google-cloud/)
+- [Model Waterfall pada SDLC](https://ziakode.com/model-waterfall-sdlc/)
+- [Mengulik Anton Wibowo, Maniak FLOSS yang Tak Kenal Jengah](https://ziakode.com/anton-wibowo/)
+- [2 Cara Menambahkan GitHub Readme Stats di Halaman Profil GitHub dengan Mudah](https://ziakode.com/menambahkan-github-readme-stats/)
 <!-- BLOG-POST-LIST:END -->
 ---
 ## Wakatime Stats
