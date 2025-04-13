@@ -25,10 +25,11 @@ Looking forward to connecting with you!
 <!--START_SECTION:waka-->
 
 ```txt
-C#       1 hr 10 mins    ██████████▓░░░░░░░░░░░░░░   42.66 %
-CSHTML   1 hr 1 min      █████████▒░░░░░░░░░░░░░░░   37.31 %
-JSON     29 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.01 %
-XML      3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+CSHTML                             11 hrs 25 mins  █████████████▒░░░░░░░░░░░   53.17 %
+C#                                 7 hrs 32 mins   ████████▓░░░░░░░░░░░░░░░░   35.09 %
+VB.NET                             1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
+Markdown                           30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+JavaScript                         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 ```
 
 <!--END_SECTION:waka-->
