@@ -14,11 +14,11 @@ Looking forward to connecting with you!
 ---
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dictionary dalam Bahasa Pemrograman C#](https://ziakode.com/dictionary-dalam-bahasa-pemrograman-c/)
 - [Cara Membuat Continuous Deployment &lpar;CD&rpar; Cpanel Menggunakan Github Actions dalam 5 Langkah!](https://ziakode.com/cara-menghubungkan-cpanel-menggunakan-github-actions/)
 - [Macam-macam Layanan Penyimpanan Data di Google Cloud](https://ziakode.com/layanan-penyimpanan-data-di-google-cloud/)
 - [Model Waterfall pada SDLC](https://ziakode.com/model-waterfall-sdlc/)
 - [Mengulik Anton Wibowo, Maniak FLOSS yang Tak Kenal Jengah](https://ziakode.com/anton-wibowo/)
-- [2 Cara Menambahkan GitHub Readme Stats di Halaman Profil GitHub dengan Mudah](https://ziakode.com/menambahkan-github-readme-stats/)
 <!-- BLOG-POST-LIST:END -->
 ---
 ## Wakatime Stats
