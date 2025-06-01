@@ -25,11 +25,11 @@ Looking forward to connecting with you!
 <!--START_SECTION:waka-->
 
 ```txt
-C#                                 19 hrs 54 mins  █████████░░░░░░░░░░░░░░░░   35.72 %
-Blade Template                     9 hrs 25 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.91 %
-Vue.js                             7 hrs 56 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 %
-PHP                                6 hrs 8 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 %
-JavaScript                         5 hrs 10 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
+Blade Template   9 hrs 19 mins   ███████▒░░░░░░░░░░░░░░░░░   29.50 %
+PHP              5 hrs 12 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
+JavaScript       4 hrs 20 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.72 %
+C#               4 hrs 13 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.37 %
+Vue.js           3 hrs 1 min     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
 ```
 
 <!--END_SECTION:waka-->
