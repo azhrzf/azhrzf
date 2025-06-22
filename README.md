@@ -25,11 +25,11 @@ Looking forward to connecting with you!
 <!--START_SECTION:waka-->
 
 ```txt
-C#                                 13 hrs 46 mins  ███████████████▓░░░░░░░░░   62.74 %
-JavaScript                         4 hrs 18 mins   █████░░░░░░░░░░░░░░░░░░░░   19.59 %
-CSHTML                             2 hrs 56 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 %
-XML                                31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
-VB.NET                             22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+PHP                8 hrs 12 mins   ███████▒░░░░░░░░░░░░░░░░░   29.48 %
+VB.NET             7 hrs 26 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.68 %
+JavaScript         5 hrs 36 mins   █████░░░░░░░░░░░░░░░░░░░░   20.15 %
+C#                 3 hrs 3 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 %
+Vue.js             1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
 ```
 
 <!--END_SECTION:waka-->
