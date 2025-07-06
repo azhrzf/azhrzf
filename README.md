@@ -25,11 +25,10 @@ Looking forward to connecting with you!
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              11 hrs 57 mins  ████████████▓░░░░░░░░░░░░   51.23 %
-JavaScript       9 hrs 57 mins   ██████████▓░░░░░░░░░░░░░░   42.70 %
-Bash             37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-JSON             11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-C#               10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+PHP          13 hrs 17 mins  ████████████████████▒░░░░   80.95 %
+JavaScript   2 hrs 47 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.99 %
+Bash         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+C#           5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
