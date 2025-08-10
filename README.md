@@ -25,11 +25,11 @@ Looking forward to connecting with you!
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          24 hrs 46 mins  ███████████████████░░░░░░   75.37 %
-SQL          2 hrs 51 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
-Other        1 hr 36 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
-Bash         1 hr 35 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
-Text         41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+Docker       19 hrs 3 mins   ██████████░░░░░░░░░░░░░░░   40.51 %
+PHP          16 hrs 6 mins   ████████▓░░░░░░░░░░░░░░░░   34.23 %
+YAML         1 hr 54 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+JavaScript   1 hr 50 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
+Bash         1 hr 48 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
 ```
 
 <!--END_SECTION:waka-->
