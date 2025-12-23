@@ -1,6 +1,3 @@
-### That's Why I Gave Up on Music
-
----
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [LinkedList di Bahasa Pemrograman C#](https://ziakode.com/linkedlist-di-bahasa-pemrograman-c/)
