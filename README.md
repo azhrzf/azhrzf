@@ -1,10 +1,8 @@
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [LinkedList di Bahasa Pemrograman C#](https://ziakode.com/linkedlist-di-bahasa-pemrograman-c/)
-- [Dictionary dalam Bahasa Pemrograman C#](https://ziakode.com/dictionary-dalam-bahasa-pemrograman-c/)
-- [Cara Membuat Continuous Deployment &lpar;CD&rpar; Cpanel Menggunakan Github Actions dalam 5 Langkah!](https://ziakode.com/cara-menghubungkan-cpanel-menggunakan-github-actions/)
-- [Macam-macam Layanan Penyimpanan Data di Google Cloud](https://ziakode.com/layanan-penyimpanan-data-di-google-cloud/)
-- [Model Waterfall pada SDLC](https://ziakode.com/model-waterfall-sdlc/)
+- [C# Compilation](https://personal-blog.azharfauzi.web.id/2026/05/04/c-compilation/)
+- [C# Common Language Runtime](https://personal-blog.azharfauzi.web.id/2026/05/03/c-common-language-runtime/)
+- [Hello world!](https://personal-blog.azharfauzi.web.id/2026/05/03/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 ---
 ### Wakatime Stats
