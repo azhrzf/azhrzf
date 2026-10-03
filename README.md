@@ -1,10 +1,10 @@
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Constants C#, Brief Explanation](https://personal-blog.azharfauzi.web.id/2026/05/09/constants-c-brief-explanation/)
-- [Reagent Exchanger](https://personal-blog.azharfauzi.web.id/2026/05/09/reagent-exchanger/)
-- [C# Boxing and Unboxing](https://personal-blog.azharfauzi.web.id/2026/05/04/c-boxing-and-unboxing/)
-- [C# Compilation](https://personal-blog.azharfauzi.web.id/2026/05/04/c-compilation/)
-- [C# Common Language Runtime](https://personal-blog.azharfauzi.web.id/2026/05/03/c-common-language-runtime/)
+- [Object-Oriented Programming di C#, Dasarnya](https://blog.azharfauzi.web.id/2026/09/01/oop-karena-saya-sebenarnya-tidak-paham-konsep-itu/)
+- [Linux Journal September 2026](https://blog.azharfauzi.web.id/2026/08/31/linux-journal-september-2026/)
+- [Value Type dan Reference Type di C#](https://blog.azharfauzi.web.id/2026/08/31/value-type-dan-reference-type-di-c/)
+- [C# Compiler dan Just-in-Time &lpar;JIT&rpar; Compilation](https://blog.azharfauzi.web.id/2026/08/26/c-compiler-dan-just-in-time-jit-compilation/)
+- [C# Journal September 2026](https://blog.azharfauzi.web.id/2026/05/03/c-common-language-runtime/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Wakatime Stats
